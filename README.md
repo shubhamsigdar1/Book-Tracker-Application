@@ -19,17 +19,17 @@ I learned that creating a successful project, isn't determined by it's complexit
   
   <tr>
     <td width="33.3%"  style="align:center;" valign="top">
-<a target="_blank" href="https://github.com/shubhamsigdar1/Card-Game">Card Game</a>
+<a target="_blank" href="https://github.com/shubhamsigdar1/veg-checker">Veg Checker</a>
         <br />
-      <a target="_blank" href="https://cardgame100devs.netlify.app/">
-            <img src="https://user-images.githubusercontent.com/107163260/208601446-b9a25528-e3c9-4112-bfda-b0d4fea07378.gif" width="100%"  alt="Travelara.org"/>
+      <a target="_blank" href="https://vegeterianchecker.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/107163260/208595821-6b76380f-611c-4c58-8a78-8fc1fe6ca21a.gif" width="100%"  alt="Travelara.org"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/shubhamsigdar1/Book-Tracker-Application">Book Tracker</a>
+<a target="_blank" href="https://github.com/shubhamsigdar1/Tic-Tac-Toe-Game-100Devs">Tic-Tac-Toe Game</a>
       <br />
-        <a target="_blank" href="https://booktracker100devs.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/107163260/208604006-65f67019-7ad5-4698-b9bb-1f9a1e4df87a.gif" width="100%" alt="Matching Card Game"/>
+        <a target="_blank" href="https://tictactoe100devs.netlify.app/">
+          <img src="https://user-images.githubusercontent.com/107163260/208596247-6879b587-2a17-4b34-93d7-c52098dad579.gif" width="100%" alt="Matching Card Game"/>
         </a>
     </td>
     <td width="33.3%" valign="top">
